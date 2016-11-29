@@ -1,0 +1,4 @@
+---
+translationtype: Human Translation
+---
+若要了解有关 Visual Studio 2017 RC 的最新文档，请参阅 [Visual Studio 2017 RC 文档](http://docs.microsoft.com/visualstudio)。
